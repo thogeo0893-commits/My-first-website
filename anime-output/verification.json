@@ -1,0 +1,39 @@
+{
+  "render_exit_code": 0,
+  "video": {
+    "index": 0,
+    "codec_name": "h264",
+    "codec_type": "video",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuvj420p",
+    "avg_frame_rate": "24/1",
+    "duration": "96.958333",
+    "nb_frames": "2327",
+    "side_data_list": [
+      {}
+    ]
+  },
+  "audio": {
+    "index": 1,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "sample_rate": "48000",
+    "channels": 2,
+    "avg_frame_rate": "0/0",
+    "duration": "96.960000",
+    "nb_frames": "4547"
+  },
+  "container": {
+    "duration": "96.960000",
+    "size": "49613744"
+  },
+  "audio_correlation": 0.998315321461228,
+  "audio_rms_dbfs": -28.24576217134419,
+  "subtitle_pages": 20,
+  "narration": false,
+  "zip_crc_check": "passed",
+  "zip_reopen_render": "passed",
+  "full_av_decode": "passed",
+  "source_checksums": "unchanged"
+}
